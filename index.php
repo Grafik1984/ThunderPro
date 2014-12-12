@@ -9,8 +9,6 @@
         <pre>
           Mama ma kota
           kot ma ale
-          kupa kupa
-          klocek klocek
         </pre>
       </div>
     </div>
